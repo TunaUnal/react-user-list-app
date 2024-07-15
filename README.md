@@ -22,4 +22,4 @@ Stil işlemleri için [bootstrap](https://getbootstrap.com/) kullandım.
 Projeyi başlatmak için `npm start` kullanabilirsin.\
 [http://localhost:3000](http://localhost:3000) adresinde proje çalışacaktır.
 
-Projeyi [Berkant CEN](https://www.youtube.com/watch?v=NNdc47vVp0c)'in videosundan esinlenerek yaptım.
+Projeyi [Berkant CEN](https://www.youtube.com/watch?v=NNdc47vVp0c)'in videosundan esinlenerek yaptım
