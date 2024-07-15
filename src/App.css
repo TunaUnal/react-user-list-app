@@ -1,0 +1,19 @@
+.user-info p{
+  margin: 0;
+  padding: 0;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  border-radius: 5%;
+  margin: 0;
+  padding: 0;
+}
+.img img {
+  width: 100%;
+  height: auto;
+  object-fit: cover; /* Resmin ortalanmasını ve tam olarak kare içinde kalmasını sağlar */
+}
